@@ -60,3 +60,37 @@ Figma is a cloud-based design and collaboration tool used for wireframing, proto
 ### How do wireframes guide the design process and facilitate communication among team members? 
 - They help translate abstract ideas into tangible visuals.
 - They make it easier for everyone to understand the product vision and provide input before time is spent coding or designing visuals.
+
+## Real-world scenario
+A product team was designing an e-commerce website for a local fashion brand. The goal was to create a seamless checkout experience for users on both desktop and mobile.
+During the wireframing stage (using Figma), the team created a simple flow showing:
+- Cart Summary
+- Shipping Information
+- Payment Method
+- Order Confirmation
+
+**Usability issue identified**
+When the team reviewed the wireframe:
+- Test users and stakeholders pointed out that the shipping and billing sections were combined on a single screen.
+- On mobile view, the screen looked cluttered, forcing users to scroll extensively and potentially miss required fields.
+- There was no progress indicator, so users didn’t know how many steps were left in the checkout process.
+  
+**Issue solving**
+- Based on this early feedback, the design team made the following wireframe changes:
+- Split the checkout into 3 clear steps: Shipping → Billing → Review
+- Added a step-by-step progress bar at the top of the screen
+- Rearranged form fields to fit mobile screens, using collapsible sections
+  
+**Impact on final solution**
+- The final UI was cleaner, especially on mobile devices
+- Drop-off rates during checkout were reduced by 18% after launch
+- The development team saved time by avoiding late-stage redesigns
+- User testing later showed improved task completion speed and satisfaction
+
+### Summary
+This scenario demonstrates how wireframing serves as a critical early checkpoint in the design process. By visualizing the product's layout and interactions:
+- Usability issues can be spotted and resolved early
+- Teams can collaborate and align before costly development begins
+- Final products are more intuitive, responsive, and user-friendly
+  
+In short, wireframing is not just a design step, it is a communication and problem-solving tool that lays the groundwork for a successful, user-centered product.
