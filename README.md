@@ -30,3 +30,23 @@ They are more detailed and refined versions, often closer to the final design, i
 
 ## Example of wireframe
 The wireframe [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a high fidelity wireframe as it contains images, colors and even words. The information contained in the wireframe is expansive and in-depth and hence a high-fidelity wireframe.
+
+## Popular Wireframing tools
+Popular wireframing tools include :
+- Figma
+- Wireframe.cc
+- Adobe XD
+- Draw.io
+- Sketch
+- Balsamiq
+- MockFlow
+- UXPin
+  
+  **Recommended tool:**
+Figma is a cloud-based design and collaboration tool used for wireframing, prototyping, UI/UX design, and even visual design. It's widely used in the tech industry due to its real-time collaboration, ease of use, and versatility.
+
+**Core Figma features**
++ Plugins & Templates - Access UI kits, wireframe kits, icon libraries, and productivity tools
++ Real-Time Collaboration - Multiple team members (designers, developers, clients) can view and edit at the same time.
++ Design Components - Reuse elements like buttons or cards to speed up your process.
++ Drag-and-Drop Interface - Quickly place shapes, buttons, text, and more to create low-fidelity wireframes.
