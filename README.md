@@ -50,3 +50,13 @@ Figma is a cloud-based design and collaboration tool used for wireframing, proto
 + Real-Time Collaboration - Multiple team members (designers, developers, clients) can view and edit at the same time.
 + Design Components - Reuse elements like buttons or cards to speed up your process.
 + Drag-and-Drop Interface - Quickly place shapes, buttons, text, and more to create low-fidelity wireframes.
+
+## Benefits of wireframing
++ Guides the Design Process: Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
++ Focuses on Functionality and User Experience: By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
++ Facilitates Communication: It serves as a communication tool among team members, clients, and stakeholders, ensuring everyone is on the same page regarding the design and functionality.
++ Clarifies Ideas and Concepts: Wireframing helps translate abstract ideas into tangible representations. It allows designers and stakeholders to visualize the layout and structure of a project early in the process.
+
+### How do wireframes guide the design process and facilitate communication among team members? 
+- They help translate abstract ideas into tangible visuals.
+- They make it easier for everyone to understand the product vision and provide input before time is spent coding or designing visuals.
