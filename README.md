@@ -10,3 +10,14 @@
 - Enables Easy Modifications: Making changes to a wireframe is quicker and less costly than altering a high-fidelity design or a developed product. This flexibility encourages experimentation and iterative improvement.
 - Guides the Design Process: Wireframes act as a guide for subsequent design and development phases, ensuring that the final product aligns with the initial vision and requirements.
 - Focuses on Functionality and User Experience: By stripping away visual design elements, wireframes allow designers to concentrate on the functionality and user experience, ensuring the product is intuitive and user-friendly.
+
+## Key Elements of a Wireframe.
++ Layout Structure: Defines the arrangement of elements on the page.
+  - Example : In a typical blog website: The layout might include a header at the top, main content area in the center, sidebar on the right, and a footer at the bottom. Helps define hierarchy (what users see first) and Supports responsive design
++ Functionality: Outlines key functionalities and interactions.
+  - Example : A search bar with a button to submit a query. Aids developers in planning and building functionality and Highlights user actions and interactivity.
++ Navigation: Shows how users will move through the site or application.
+  - Example : On an e-commerce site: A top navigation bar might include links to "Home", "Shop", "Cart", and "Profile". Enables smooth user flow and Reduces confusion
++ Content Placement: Indicates where text, images, and other content will be positioned.
+  - Example : On a news article page: Headline at the top, Image below the headline, Body text in the center, Related stories in a sidebar. Reinforces clarity and readability and Improves scannability for users.
+    
