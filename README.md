@@ -21,3 +21,12 @@
 + Content Placement: Indicates where text, images, and other content will be positioned.
   - Example : On a news article page: Headline at the top, Image below the headline, Body text in the center, Related stories in a sidebar. Reinforces clarity and readability and Improves scannability for users.
     
+## Types of Wireframes.
+### Low-Fidelity Wireframes
+They are simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design. They are used at the beginning of the design process before the final design has been decided on and iterations are still ongoing.
+
+### High-Fidelity Wireframes
+They are more detailed and refined versions, often closer to the final design, including more specific layout and design elements. They are used once the final layout has been decided and there are minimal iterations happenning.
+
+## Example of wireframe
+The wireframe [here](https://www.figma.com/design/E2BRqdPcKkrnX6hLGPto8Z/Project-Airbnb?node-id=1-2&p=f) is a high fidelity wireframe as it contains images, colors and even words. The information contained in the wireframe is expansive and in-depth and hence a high-fidelity wireframe.
