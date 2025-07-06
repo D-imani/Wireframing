@@ -21,7 +21,7 @@
 + Content Placement: Indicates where text, images, and other content will be positioned.
   - Example : On a news article page: Headline at the top, Image below the headline, Body text in the center, Related stories in a sidebar. Reinforces clarity and readability and Improves scannability for users.
     
-## Types of Wireframes.
+## Types of Wireframes
 ### Low-Fidelity Wireframes
 They are simple sketches or basic digital layouts focusing on overall structure and functionality without detailed design. They are used at the beginning of the design process before the final design has been decided on and iterations are still ongoing.
 
